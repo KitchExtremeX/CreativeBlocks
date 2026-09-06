@@ -1,0 +1,8 @@
+{
+  "name": "creativeblocks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An original local-first voxel survival island",
+  "scripts": { "start": "node serve.cjs", "test": "node --test tests/systems.test.cjs" },
+  "license": "UNLICENSED"
+}
