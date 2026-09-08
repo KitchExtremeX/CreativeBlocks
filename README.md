@@ -5,7 +5,7 @@
 ## Start playing
 
 - Open **CreativeBlocks.html** for the single-file offline edition. No install, network, or server is required.
-- Alternatively, open **index.html**, double-click **Launch.cmd**, or run `npm start` / `node serve.cjs` in this folder. The local server uses **http://127.0.0.1:4174**.
+- Alternatively, open **index.html**, double-click **Launch.cmd**, or run `npm start` / `node serve.cjs` in this folder.
 - Click **Begin your story**. Use a desktop browser with WebGL and a keyboard/mouse. Sound begins only after a click.
 - The embedded Codex preview may deny pointer lock. In that case the game offers middle-button drag and arrow-key looking. A regular desktop browser can use pointer lock normally; Esc releases it.
 
